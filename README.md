@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h2>Hi there! I'm Esteban</h2>
+Welcome to my cave. I'm passionate about solving problems using code as a tool.
 <br>
-
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/estebanfelipep/).
+<br>
+Know about my experiences on [LinkedIn](https://www.linkedin.com/in/estebanfelipep/).
